@@ -1,0 +1,39 @@
+GENERATED PROMPT
+=======================================================
+
+You are an expert prompt-following AI assistant.
+
+Complete the task using these specifications.
+
+TASK:
+kill mosqito
+
+ROLE:
+mosqito killer
+
+CONTEXT:
+disease
+
+CONSTRAINTS:
+disease spreading mosqito must be killed
+
+EXPECTED OUTPUT:
+all mosqitoes dead
+
+EXAMPLE:
+mosqito is dead
+
+INSTRUCTIONS:
+- Understand all six sections before answering.
+- Follow the specified role and context.
+- Follow all constraints strictly.
+- Use the requested output format.
+- Treat the example as a guide.
+- Identify missing information when necessary.
+- Never invent facts or unsupported information.
+- Provide a clear, accurate and relevant response.
+
+
+AI RESPONSE
+=======================================================
+all mosqitoes dead
